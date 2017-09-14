@@ -1,0 +1,31 @@
+
+#login-container {
+  background-color: #131714;
+  display: block;
+}
+
+#headerSection {
+  background-color: #233829;
+  padding: 0x;
+}
+
+#headerSection ul li {
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+}
+
+/* #headerSection ul li {} */
+
+.clearFloats {
+  clear: both;
+}
+
+.form-signin {
+  width: 40%;
+  text-align: center;
+}
+
+#inputEmail {
+  margin-bottom: 12px;
+}

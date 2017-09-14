@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# My database config file that has my secret information
+config.php
